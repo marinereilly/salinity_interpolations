@@ -1,0 +1,14 @@
+Package: salinitykayak
+Type: Package
+Title: Dominion Kayak Salinity Survey
+Version: 0.1.0
+Author: Erin
+Maintainer: The package maintainer <ereilly@umces.edu>
+Description: Preps GPX and xlsx files for interpolations in ArcMap for the Dominion Salinity survey via kayak
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tidyverse,
+    sf
+RoxygenNote: 6.0.1
